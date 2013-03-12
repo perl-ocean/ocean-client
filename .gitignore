@@ -1,0 +1,8 @@
+.pidfile.pid
+node_modules
+ocean.js
+ocean.min.js
+tests/html/lib/*.js
+.testling_env.sh
+testling.js
+*~
